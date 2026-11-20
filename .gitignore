@@ -1,0 +1,8 @@
+# Данные не храним в репозитории: скачиваются с Kaggle (ссылка в README)
+creditcard.csv
+*.csv.zip
+
+# Служебные файлы
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
